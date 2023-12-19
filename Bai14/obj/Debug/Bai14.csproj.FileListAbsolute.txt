@@ -1,0 +1,11 @@
+D:\congnghe.net\De1\123\Bai14\bin\Debug\Bai14.exe.config
+D:\congnghe.net\De1\123\Bai14\bin\Debug\Bai14.exe
+D:\congnghe.net\De1\123\Bai14\bin\Debug\Bai14.pdb
+D:\congnghe.net\De1\123\Bai14\obj\Debug\Bai14.csprojResolveAssemblyReference.cache
+D:\congnghe.net\De1\123\Bai14\obj\Debug\Bai14.Form1.resources
+D:\congnghe.net\De1\123\Bai14\obj\Debug\Bai14.Properties.Resources.resources
+D:\congnghe.net\De1\123\Bai14\obj\Debug\Bai14.csproj.GenerateResource.Cache
+D:\congnghe.net\De1\123\Bai14\obj\Debug\Bai14.exe
+D:\congnghe.net\De1\123\Bai14\obj\Debug\Bai14.pdb
+D:\congnghe.net\De1\123\Bai14\obj\Debug\Bai14.Form2.resources
+D:\congnghe.net\De1\123\Bai14\obj\Debug\Bai14.Form3.resources
